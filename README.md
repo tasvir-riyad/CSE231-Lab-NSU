@@ -16,8 +16,3 @@ All the Lab Reports with Simulations are serially given below
 ![CSE 231 Lab Report 01_compressed_page-0013](https://github.com/user-attachments/assets/9f776549-cea2-4017-bfcb-deb09f9d706e)
 ![CSE 231 Lab Report 01_compressed_page-0014](https://github.com/user-attachments/![CSE 231 Lab Report 01_compressed_page-0015](https://github.com/user-attachments/assets/e029daa2-5415-4d02-bc05-1268f6eb83b3)
 assets/d!![CSE 231 Lab Report 01_compressed_page-0017](https://github.com/user-attachments/assets/9934846e-75e0-47b5-b240-ca71611b1b7a)
-[CSE 231 Lab Report 01_compressed_page-0016](https://github.com/user-attachments/assets/664754f5-70f6-4022-ae93-cfbf8512f932)
-35580c8-4d06-![CSE 231 Lab Report 01_compressed_page-0014](https://github.com/user-attachments/assets/b8a35a45-3fac-4617-995f-4e8992c478b5)
-423f-b14c-43a49e5fe981)
-![CSE 231 Lab Report 01_compressed_page-0015](https://github.com/user-attachments/assets/86265da1-1d46-4fd2-b3ea-7b417d9b8346)
-![CSE 231 Lab Report 01_compressed_page-0017](https://github.com/user-attachments/assets/9934846e-75e0-47b5-b240-ca71611b1b7a)
