@@ -1,4 +1,5 @@
 # CSE 231 Lab (Digital Logic Design) NSU!
+All the Lab Reports with Simulations are serially given below 
 
 ![CSE 231 Lab Report 01_compressed_page-0001](https://github.com/user-attachments/assets/6f81d56c-8351-4989-8ac5-446792c9d306)
 ![CSE 231 Lab Report 01_compressed_page-0002](https://github.com/user-attachments/assets/eb6868e4-b72e-430c-ac14-e726bb4658a0)
