@@ -1,3 +1,5 @@
+# CSE 231 Lab (Digital Logic Design) NSU!
+
 ![CSE 231 Lab Report 01_compressed_page-0001](https://github.com/user-attachments/assets/6f81d56c-8351-4989-8ac5-446792c9d306)
 ![CSE 231 Lab Report 01_compressed_page-0002](https://github.com/user-attachments/assets/eb6868e4-b72e-430c-ac14-e726bb4658a0)
 ![CSE 231 Lab Report 01_compressed_page-0003](https://github.com/user-attachments/assets/07367c24-89e6-42da-86be-50d398a637fc)
