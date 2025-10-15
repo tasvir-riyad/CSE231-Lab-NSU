@@ -1,2 +1,17 @@
-# CSE231-Lab-NSU
+![CSE 231 Lab Report 01_compressed_page-0016](https://github.com/user-attachments/assets/52ad6845-487b-4667-97ab-dc37771bc1cc)![CSE 231 Lab Report 01_compressed_page-0012](https://github.com/user-attachments/assets/12a99ade-9384-4e38-b21c-2e2e6aaf98f2)# CSE231-Lab-NSU
 Contains Lab manual, Lab reports and Simulations(Inside Lab Report) for CSE 231 Digital Logic Design Lab NSU! All the Lab-Reports will be updated soon...
+![CSE 231 Lab Report 01_compressed_page-0001](https://github.com/user-attachments/assets/35528967-730b-4af4-bc41-45cc212295a4)
+![CSE 231 Lab Report 01_compressed_page-0002](https://github.com/user-attachments/assets/8d2d4bf7-6936-4303-abfa-c8d2342702f0)
+![CSE 231 Lab Report 01_compressed_page-0003](https://github.com/user-attachments/assets/c12b80a8-74f1-4565-9cb6-07ffd6f6816b)
+![CSE 231 Lab Report 01_compressed_page-0004](https://github.com/user-attachments/assets/4b3bd3bc-7a0f-4b42-aec8-d1d7dfa507b5)
+![CSE 231 Lab Report 01_compressed_page-0005](https://github.com/user-attachments/assets/80229bd0-5ad8-4fab-abd7-458b84b95fcc)
+![CSE 231 Lab Report 01_compressed_page-0006](https://github.com/user-attachments/assets/7e05ab8c-db3d-4c56-a7af-a5b1f4caac20)
+![CSE 231 Lab Report 01_compressed_page-0007](https://github.com/user-attachments/assets/a79577ae-d889-4a87-85c3-7e8024030efd)
+![CSE 231 Lab Report 01_compressed_page-0008](https://github.com/user-attachments/assets/24573261-bbfb-417e-be8f-ec0b86d987b0)
+![CSE 231 Lab Report 01_compressed_page-0009](https://github.com/user-attachments/assets/1066678c-f78a-4b60-b398-036253f645a5)
+![CSE 231 Lab Report 01_compressed_page-0010](https://github.com/user-attachments/assets/c52d5891-46d8-4a1f-93b2-26a36a0813bc)
+![CSE 231 Lab Report 01_compressed_page-0011](https://github.com/user-attachments/assets/64730576-1a79-476e-8c73-fb723b873dbb)
+![Uploading CSE![CSE 231 Lab Report 01_compressed_page-0013](https://github.com/user-attachments/assets/46d3599a-c349-4e73-bc52-a0a25ed86dea)
+ 231 Lab Report 01_compressed_page-0012.jpg…]()
+![Uploading CS![CSE 231 Lab Report 01_compressed_page-0017](https://github.com/user-attachments/assets/8e588409-d34e-413d-8c30-1c1c47f19add)
+E 231 Lab Report 01_compressed_page-0016.jpg…]()
